@@ -1,0 +1,12 @@
+.timer {
+  margin-top: 20px;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+
+.field {
+padding: 10px;
+margin-right: 2px;
+border-style:dotted
+}
